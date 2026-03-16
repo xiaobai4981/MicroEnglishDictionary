@@ -5,7 +5,6 @@
 ## Overview
 
 Dictionary App is an Android application that provides users with an efficient and intuitive way to explore word meanings, synonyms, antonyms, examples, and even hear the correct pronunciation. The app is designed to offer a seamless and engaging experience for users interested in expanding their vocabulary and understanding of words.
-
 ## Features
 
 - **Word Meanings:** Look up word meanings with accurate and detailed definitions.

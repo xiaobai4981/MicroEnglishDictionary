@@ -1,4 +1,4 @@
-package com.abhinav.dictionaryapp;
+package com.leyou.englishdictionary;
 
 import android.content.Context;
 

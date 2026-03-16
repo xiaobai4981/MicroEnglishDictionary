@@ -1,7 +1,6 @@
-package com.abhinav.dictionaryapp;
+package com.leyou.englishdictionary;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.AppCompatButton;
 import androidx.appcompat.widget.SearchView;
 import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
@@ -16,10 +15,10 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.abhinav.dictionaryapp.Adapters.AntonymAdapter;
-import com.abhinav.dictionaryapp.Adapters.SynonymAdapter;
-import com.abhinav.dictionaryapp.Models.APIResponse;
-import com.abhinav.dictionaryapp.Models.Definitions;
+import com.leyou.englishdictionary.Adapters.AntonymAdapter;
+import com.leyou.englishdictionary.Adapters.SynonymAdapter;
+import com.leyou.englishdictionary.Models.APIResponse;
+import com.leyou.englishdictionary.Models.Definitions;
 import com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton;
 
 import java.util.ArrayList;
